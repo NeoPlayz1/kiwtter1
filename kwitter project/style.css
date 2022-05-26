@@ -1,0 +1,104 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+background-image: linear-gradient(to right top, #ca26e3, #be25d9, #8018c1, #0a12aa, #08c9ef);
+}
+
+#h3{
+	color: white; 
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.header
+{
+	color: white;font-family:'Courier New', Courier, monospace;font-size: 45px;letter-spacing: 15px;margin-top: 80px;
+}
+.header img
+{
+	width: 80px;margin-left: -15px;
+}
+#h4{
+	color: azure; font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.login_div
+{
+	background: rgba(255, 255, 255, 0.225);float: none;border-radius: 15px;
+}
+
+.logo
+{
+	width: 80px;margin-top: 30px;border-radius: 40px;
+}
+
+#login_button
+{
+	width: 80%;border-radius: 15px;
+}
+
+.room_name
+{
+	cursor: pointer;
+	font-size: 20px;
+}
+
+
+#logout
+{
+	font-size: 20px; float: right;
+}
+
+
+#output
+{
+	padding: 10px; width:80%;background: rgba(255,255,255,0.8);border-radius: 15px;
+}
+
+.input_div_room_page
+{
+	width: 80%;
+}
+
+.input_div label
+{
+	color: white;font-size: 20px;
+}
+
+
+.input_div_message_page
+{
+	position: fixed;bottom: 0px;width: 100%;background: rgba(255,255,255,0.8);
+}
+.input_div_message_page label
+{
+	color: rgb(246, 239, 239);
+}
+.input_div_message_page #msg
+{
+	width: 80%;
+}
+.input_div_message_page button
+{
+	margin-top: 15px;
+	width: 50%; 
+}
+.color_white
+{
+	color: white
+}
+
+.user_tick
+{
+	width:20px;
+}
+.message_h4
+{
+	padding-left:5px;color:rgb(255, 247, 247);
+}
+
+.imgimage{
+	border-radius: 15px;
+}
